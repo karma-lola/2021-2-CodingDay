@@ -1,4 +1,15 @@
 main{
     display: flex;
     flex-direction: column;
+    margin:1em;
+}
+
+label {
+    margin-bottom: 2em;
+    margin-top:2em;
+    border-top: 2px solid black;
+}
+
+li{
+    list-style-type: none;
 }

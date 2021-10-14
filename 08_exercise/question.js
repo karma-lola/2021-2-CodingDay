@@ -1,17 +1,17 @@
 var quiz=[
-    {question:" What does HTML stands for",
+    {question:"1 What does HTML stands for",
      answers: ["Hyper Text Markup Language","What does HTML stand for?","Hyper Text Markup Language"],
      correctAnswer: "1"},
-     {question:" Home Tool Markup Language",
+     {question:"2 Home Tool Markup Language",
      answers: ["Hyper Text Markup Language","What does HTML stand for?","Hyper Text Markup Language"],
      correctAnswer: "1"},
-     {question:" Home Tool Markup Language",
+     {question:"3 Home Tool Markup Language",
      answers: ["Hyper Text Markup Language","What does HTML stand for?","Hyper Text Markup Language"],
      correctAnswer: "1"},
-     {question:" Home Tool Markup Language",
+     {question:"4 Home Tool Markup Language",
      answers: ["Hyper Text Markup Language","What does HTML stand for?","Hyper Text Markup Language"],
      correctAnswer: "1"},
-     {question:" Home Tool Markup Language",
+     {question:"5 Home Tool Markup Language",
      answers: ["Hyper Text Markup Language","What does HTML stand for?","Hyper Text Markup Language"],
      correctAnswer: "1"}
      
