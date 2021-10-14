@@ -73,6 +73,7 @@ picture {
 
   aside {
     grid-area: aside;
+    grid-column-end: 1;
   }
 
   section {
